@@ -37,7 +37,7 @@
 #### 🎯 Tawjihi_Sanfor_STD  
 > Helps students find university majors based on Tawjihi stream & GPA  
 > 🔧 `ASP.NET Core` | `EF` | `SQL Server` | `Bootstrap`  
-[🔗 View on GitHub](https://github.com/mohammed-h-jmian/Tawjihi_Sanfor_STD)
+[🔗 View on GitHub](https://github.com/mohammed-h-jmian/Tawjihy_Sanfor_STD)
 
 #### 🚌 BusTracking  
 > Real-time bus tracking system with Google Maps API  
